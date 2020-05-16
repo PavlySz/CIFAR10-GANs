@@ -19,7 +19,7 @@
 ### Some results
 ![results](fake_samples_epoch_010_batch_700.png)
 
-*PS: Only 10 epochs due to GPU limitations
+**PS:** Only used 10 epochs due to GPU limitations
 
-References:
-    Computer Vision From A to Z course on Udemy
+*References:* <br>
+ - Computer Vision From A to Z course on Udemy
