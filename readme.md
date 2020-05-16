@@ -4,7 +4,15 @@
 *Framework:* **PyTorch**
 *Number of epochs:* **10**
 
-### Some results
-![results](results\fake\fake_samples_epoch_010_batch_700.png)
+*Requirements:*
+    - NumPy
+    - Matplot
+    - PyTorch
 
-*Only 10 epochs due to GPU limitations
+### Some results
+![results](fake_samples_epoch_010_batch_700.png)
+
+*PS: Only 10 epochs due to GPU limitations
+
+References:
+    Computer Vision From A to Z course on Udemy
