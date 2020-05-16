@@ -9,11 +9,11 @@
 
 *Requirements:*
 
-    - NumPy
+    -NumPy
 
-    - Matplot
+    -Matplot
 
-    - PyTorch
+    -PyTorch
 
 
 ### Some results
