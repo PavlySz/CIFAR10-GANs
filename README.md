@@ -7,7 +7,7 @@
 *Number of epochs:* **10**
 
 
-*Requirements:*
+**Requirements:**
 
  - NumPy
 
